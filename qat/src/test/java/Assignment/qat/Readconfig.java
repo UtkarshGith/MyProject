@@ -1,4 +1,4 @@
-package Assignment.qat;
+package Assignment.qat ;
 
 import java.io.File;
 import java.io.FileInputStream;

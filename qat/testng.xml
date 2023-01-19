@@ -3,7 +3,7 @@
 <suite name="Suite">
 <test thread-count="5" name="Test">
 <classes>
-<class name="Assignment.qat.apiUtil" />
+<class name="Assignment.qat.apiUtil"/>
 </classes>
 </test> <!-- T est  -->
 </suite> <!-- Suite -->

@@ -1,4 +1,4 @@
-package Assignment.qat;
+package Assignment.qat ;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
